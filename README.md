@@ -1,6 +1,4 @@
-<h1 align="center">E aí, me chamo Marieliton</h1>
-
-<h3 align="center">"Qualquer tecnologia suficientemente avançada é indistinta de magia." - Arthur C. Clarke </h3>
+<h1 align="center">Qualquer tecnologia suficientemente avançada é indistinta de magia." - Arthur C. Clarke</h1>
 
 <p align="left">- 🌱Atualmente estou estudando Ciências e Engenharia de Dados usando Python</p>
 
