@@ -1,6 +1,6 @@
-<h1 align="center">Qualquer tecnologia suficientemente avançada é indistinta de magia." - Arthur C. Clarke</h1>
+<h1 align="center">Qualquer tecnologia suficientemente avançada é indistinta de magia. - Arthur C. Clarke</h1>
 
-<p align="left">- 🌱Atualmente estou estudando Ciências e Engenharia de Dados usando Python</p>
+<p align="left">- 🌱Atualmente estou estudando sobre a área de Big Data usando Python e outras tecnologias</p>
 
 <p align="left">- 📫 Pra me contatar: marielitonmb@gmail.com</p>
 
